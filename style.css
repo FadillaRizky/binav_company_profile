@@ -1,0 +1,17 @@
+/* styles.css */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
+
+#caroselExample{
+    height: auto;
+    width: auto;
+    overflow: hidden;
+}
+
+.card-wrapper {
+            padding: 15px;
+        }
